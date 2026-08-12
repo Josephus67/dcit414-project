@@ -1,0 +1,5 @@
+model,n_clusters,silhouette,davies_bouldin,calinski_harabasz,noise_pct
+K-Means (k=2),2,0.3074,1.3519,4284.9,0.0
+Agglomerative (k=2),2,0.2817,1.4871,3689.4,0.0
+DBSCAN (eps=1.85),2,0.2727,0.7752,51.4,6.0
+GMM (k=10),10,0.0822,2.6601,1316.0,0.0
